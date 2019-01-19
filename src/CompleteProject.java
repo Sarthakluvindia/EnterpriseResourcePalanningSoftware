@@ -55,7 +55,7 @@ public class CompleteProject extends JPanel {
 				
 				lblNewLabel.setText("<html> Manager:"+rs.getString(4)+"<br> Start Date: "+rs.getString(2)+"<br> End Date: "+rs.getString(3)+"<br> Description: "+rs.getString(8)+"</html>");
 			}
-			
+			//hello sarthak aditya here...
 			lblNewLabel.setVerticalAlignment(SwingConstants.TOP);
 			lblNewLabel.setForeground(Color.BLACK);
 			lblNewLabel.setFont(new Font("Lato", Font.PLAIN, 13));
